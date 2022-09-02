@@ -15,6 +15,7 @@ RUN apk --no-cache --repository https://dl-cdn.alpinelinux.org/alpine/edge/main 
     php81-common \
     php81-gd \
     php81-xmlreader \
+    php81-xmlwriter \
     php81-bcmath \
     php81-ctype \
     php81-curl \
