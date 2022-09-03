@@ -1,4 +1,4 @@
-REPO:=jorge07/alpine-php
+REPO:=cmette/alpine-php
 DOCKER_RUN:=docker run --rm -v $(PWD):/app ${REPO}:${VERSION}
 DOCKER_RUN_DEV:=$(DOCKER_RUN)-dev
 build:
